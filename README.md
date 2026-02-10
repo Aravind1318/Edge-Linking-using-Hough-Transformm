@@ -24,10 +24,16 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 ## Output
 
 ### Input image and grayscale image
-![output](./p1.png)
+<img width="250" height="450" alt="image" src="https://github.com/user-attachments/assets/067397f3-c56d-44e0-a104-7adf19c8deff" />
+<img width="258" height="463" alt="image" src="https://github.com/user-attachments/assets/ab6438d1-4374-4e80-942b-1f0132e3c8f3" />
+
 
 ### Canny Edge detector output
-![output](./p2.png)
+<img width="251" height="464" alt="image" src="https://github.com/user-attachments/assets/9e654fd3-ee76-46e5-b75d-00e091df9eeb" />
+
 
 ### Display the result of Hough transform
-![output](./p3.png)
+<img width="266" height="471" alt="image" src="https://github.com/user-attachments/assets/cb707284-12db-4dfe-ba66-c29c471131e1" />
+
+## Result:
+To write a Python program to detect the lines using Hough Transform was verified successfully.
